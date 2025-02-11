@@ -1,0 +1,5 @@
+a = float(input("1-son kiriting: "))
+b = float(input("2-son kiriting: "))
+c = float(input("3-son kiriting: "))
+print("eng katta son: ", max(a,b,c))
+print("eng kichik son: ", min(a,b,c))

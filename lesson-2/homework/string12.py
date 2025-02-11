@@ -1,0 +1,6 @@
+text1 = str(input("1-so'zni kiriting: "))
+text2 = str(input("2-so'zni kiriting: "))
+text3 = str(input("3-so'zni kiriting: "))
+text4 = str(input("4-so'zni kiriting: "))
+text5 = str(input("5-so'zni kiriting: "))
+print(text1 + ", " + text2 + ", " + text3 + ", " + text4 + ", " + text5 )
