@@ -1,0 +1,7 @@
+a = str(input("1-matnni kiriting: "))
+b = str(input("2-matnni kiriting: "))
+c = a.find(b)
+d = b.find(a)
+if c != -1: print("1-matn tarkibida 2-si bor")
+elif d != -1: print("2-matn tarkibida 1-si bor")
+else: print("ular bir-birini tarkibida mavjud emas")
