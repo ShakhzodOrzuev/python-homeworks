@@ -1,8 +1,5 @@
-
 import random
 a = random.randint(1,100)
-#print(a)
-
 b = int(input('taxmin qilinayotgan sonni kiriting: '))
 i = 1
 list_answer = ['Y', 'YES', 'y', 'yes', 'ok']
@@ -13,8 +10,7 @@ while i < 11:
                  i = 1
             else: 
                 print('good bye') 
-                break
-                
+                break                
     if a < b: 
         print("Too high"); i +=1; b = int(input('taxmin qilinayotgan sonni kiriting: '))
     elif a > b: 
@@ -22,9 +18,4 @@ while i < 11:
     elif a == b: 
         print('you guessed it right');
         break
-    
-
-    #if c in list_answer: i = 1
-     #   if c in list_answer: i = 1
-    #else: break
  

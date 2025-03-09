@@ -1,0 +1,5 @@
+11   hakimjon   sartarosh   230
+12   Oybek   developer   2000
+1   Sirojiddin   teacher   200
+2   Hakim   assistant   150
+3   Doston   bekorchi   500
